@@ -52,11 +52,7 @@ You are welcome to create any layout that you would like for your dashboard. An 
 
 ## Step 2 - Heroku
 
-Deploy your Flask app to Heroku.
-
-
-You can use the provided sqlite file for the database.
-Ask your Instructor and TAs for help!
+Deploy your Flask app to Heroku. -- Not completed
 
 
 ## Authors
